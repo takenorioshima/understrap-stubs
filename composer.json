@@ -1,0 +1,12 @@
+{
+  "name": "takenorioshima/understrap-stubs",
+  "description": "Generated stub declarations for Understrap.",
+  "license": "GPL-2.0",
+  "authors": [
+    {
+      "name": "Takenori Oshima",
+      "email": "takenorioshima@gmail.com"
+    }
+  ],
+  "require": {}
+}
